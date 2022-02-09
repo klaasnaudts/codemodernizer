@@ -41,7 +41,7 @@ isMenuLarge = true
 [[main]]
 weight = 13
 name = "Download"
-url = "download/"
+url = "roadmap/"
 
 [[main]]
 weight = 6
@@ -51,13 +51,13 @@ hasChildren = true
   [[main]]
   parent = "Pricing"
   name = "Plans"
-  url = "pricing/"
+  url = "roadmap/"
   weight = 1
 
   [[main]]
   parent = "Pricing"
   name = "Buy"
-  url = "get-demo/"
+  url = "roadmap/"
   weight = 4
 
 
@@ -69,51 +69,22 @@ hasChildren = true
 
   [[main]]
   parent = "Resources"
-  name = "Blog"
-  url = "blog/"
+  name = "Roadmap"
+  url = "roadmap/"
   weight = 1
 
   [[main]]
   parent = "Resources"
-  name = "FAQ"
-  url = "faq/"
+  name = "Blog"
+  url = "blog/"
   weight = 2
 
   [[main]]
   parent = "Resources"
   name = "Manual"
   url = "manual/"
-  weight = 4
+  weight = 3
 
-  [[main]]
-  parent = "Resources"
-  name = "Roadmap/Timeline"
-  url = "roadmap-timeline/"
-  weight = 5
-
-  [[main]]
-  parent = "Resources"
-  name = "Installation & Tutorial"
-  url = "installation-tutorial/"
-  weight = 10
-
-  [[main]]
-  parent = "Resources"
-  name = "Technical Details"
-  url = "technical-details/"
-  weight = 16
-
-  [[main]]
-  parent = "Resources"
-  name = "Bug Reporting"
-  url = "bug-reporting/"
-  weight = 20
-
-  [[main]]
-  parent = "Resources"
-  name = "Feedback"
-  url = "feedback/"
-  weight = 24
 
 [[main]]
 name = "Values"

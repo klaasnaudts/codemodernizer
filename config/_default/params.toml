@@ -2,7 +2,7 @@
 # favicon
 favicon = "images/favicon-32x32.png"
 # logo
-logo = "images/CM-text-bold-logo.png"
+logo = "images/CM-purple.png"
 logo_white = "images/CM-text-white-logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width does not work with .svg file

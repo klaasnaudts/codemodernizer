@@ -25,7 +25,7 @@ pricing_list:
   # pricing item
   - name : "Free trial"
     currency: "€"
-    price: "0"
+    price: " 0"
     price_per : "for 1 month"
     info : "For people who want to try CodeModernizer for free for 1 month."
     recommended : true
@@ -88,9 +88,9 @@ pricing_list:
   
   # pricing item
   - name : "Enterprise"
-    currency: "€"
-    price: "10.000"
-    price_per : "year"
+    currency: ""
+    price: ""
+    price_per : ""
     info : "For organizations with a 100 or more employees"
     recommended : false
     services:
@@ -99,8 +99,8 @@ pricing_list:
     - "Unlimited amount of lines of code"
     button:
       enable : true
-      label : "Get started"
-      link : "#!" 
+      label : "Contact us for more info "
+      link : "contact/" 
 
 # faq
 faq:

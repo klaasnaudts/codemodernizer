@@ -2,12 +2,12 @@
 ####################### Banner #########################
 banner:
   title : "CodeModernizer: Longer Lasting Code"
-  image : "images/undraw/undraw_software_engineer_re_fyew.svg"
+  image : "images/undraw/undraw_purple.svg"
   content : "CodeModernizer employs semi-automated techniques to evolve your Java code over time."
   button:
     enable : true
-    label : "Get started for Free"
-    link : "get-demo/"
+    label : "Get started"
+    link : "roadmap/"
 
 
 ##################### Feature ##########################
@@ -21,8 +21,8 @@ feature:
   Before any of the first three can run, the code will be run through ‘regularization’: irregular constructs, which can generally be viewed as “sloppy programming”, are transformed to more conventional ones."
   button:
     enable : true
-    label : "Try for Free"
-    link : "get-demo/"
+    label : "More info"
+    link : "products/product-codemodernizer"
   feature_item:
   # feature item loop
   - name : "1. Modernize language constructs"
@@ -104,6 +104,7 @@ testimonials:
   enable: true
   title: "Mission & Values"
   content: "[Find out](values/) what drives us to make software."
+  
 
   testimonials_quotes:
   - quote: "Our mission is to make a lasting impact on the programming world with tools for code that lasts longer and that is more sustainable."

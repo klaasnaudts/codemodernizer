@@ -9,7 +9,7 @@ layout: "about"
 
 # about
 about:
-  title: "Start thinking long-term for your code and make it last longer"
+  title: "We are committed to making code more sustainable, and contributing to the Java community"
   content: "CodeModernizer is a tool that will help you make your code last not just years, but decades, by modernizing it. It uses the static code analyzer [e2immu](https://e2immu.org), that focusses on immutability."
   image: "images/about.jpg"
 
@@ -17,9 +17,9 @@ about:
 # founders_quote
 founders_quote:
   name: "Bart Naudts"
-  subtitle: "The Founder, Bigspring LLC"
-  image: "images/avatar/02.jpg"
-  content: "We’re changing how product managers, developers, and data scientists plan, track, and govern analytics across organizations. Before Avo, teams were forced to choose between product delivery speed and reliable insights."
+  subtitle: "The Founder, IBTECH BV"
+  image: "images/team/bart.jpg"
+  content: ""
 
 
 # who_we_are
@@ -31,10 +31,10 @@ who_we_are:
 # our_mission
 our_mission:
   title: "Our mission"
-  content: "Companies have never had to understand their customers better or faster. Consumers choose the product with the best experience and companies can’t afford to stall product decisions while waiting days or weeks for answers from a centralized BI team.
+  content: "Our mission is to make a lasting impact on the programming world with tools for code that lasts longer and that is more sustainable.
   
   
-  The industry gold standard has become to decentralize business intelligence, so that every team is autonomous in making data-driven decisions quickly."
+  Code and software development is often not long-term focused. However, this model of building systems that last a couple of years and have to be redesigned, rewritten and replaced is far from sustainable and efficient. We believe this can be done differently."
 
 
 # fun facts
@@ -43,14 +43,14 @@ fun_facts:
   title: "Fun facts about us"
   fact_item:
   - icon: "fas fa-fighter-jet"
-    counter: "80"
-    counter_suffix: "%"
-    content: "Spend 80% less time <br> on admin"
+    counter: "80000000"
+    counter_suffix: ""
+    content: "Lines of code in <br>CodeModernizer so far"
 
   - icon: "far fa-dot-circle"
-    counter: "40"
-    counter_suffix: "x"
-    content: "Attract 40x more <br> the candidate"
+    counter: "22"
+    counter_suffix: ""
+    content: "Years of experience with Java"
 
   - icon: "fas fa-dice"
     counter: "83"
@@ -80,6 +80,9 @@ features_box:
     content: "Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada praesent."
 
 
+
+---
+
 # office_culture
 office_culture:
   enable: true
@@ -106,4 +109,3 @@ office_culture:
       enable : true
       label : "View open Positions"
       link : "career/"
----

@@ -11,6 +11,5 @@ layout: "contact"
 #### Get in contact
 Interested in consulting, the development of CodeModernizer, or a question in general? Don't hesitate to get into contact with us!
 
-* **Phone: ???** 
-* **Mail: ???.com**
-* **Address: ???**
+* Mail: **idk@mail.com**
+* Or reach us on **[LinkedIn](/)**
