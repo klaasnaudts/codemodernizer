@@ -1,0 +1,53 @@
+################################### English language #####################################
+[en]
+languageName = "EN"
+languageCode = "en-US"
+contentDir = "content/english"
+weight = 1
+########### footer content ##########
+footer_menu_left = "CodeModernizer"
+footer_menu_middle = "Resources"
+footer_menu_right = "Company"
+footer_content = "CodeModernizer is a product and service from IBTECH BV, a limited liability company under Belgian law. It makes use of the [e2immu](https://e2immu.org) open source static code analyzer for Java."
+
+################################### Nederlandse language #####################################
+[nl]
+languageName = "NL"
+languageCode = "nl-BE/NL"
+contentDir = "content/nederlands"
+weight = 2
+########### footer content ##########
+footer_menu_left = "Firma"
+footer_menu_middle = "Produkte"
+footer_menu_right = "Support"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit consjat tristique eget amet."
+
+
+
+
+
+
+################################### Deutsch language #####################################
+[de]
+languageName = "DE"
+languageCode = "de-DE"
+contentDir = "content/deutsch"
+weight = 3
+########### footer content ##########
+footer_menu_left = "Firma"
+footer_menu_middle = "Produkte"
+footer_menu_right = "Support"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit consjat tristique eget amet."
+
+
+################################### Chinese language #####################################
+[zh-cn]
+languageName = "CN"
+languageCode = "zh-CN"
+contentDir = "content/chinese"
+weight = 4
+########### footer content ##########
+footer_menu_left = "公司"
+footer_menu_middle = "产品"
+footer_menu_right = "支持"
+footer_content = "痛苦本身就是爱"

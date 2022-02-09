@@ -1,0 +1,201 @@
+# main menu
+
+[[main]]
+weight = 4
+name = "Products"
+hasChildren = true
+[main.params]
+isMenuLarge = true
+
+  [[main]]
+  parent = "Products"
+  name = "CodeModernizer"
+  #pre = "<i class='dropdown-icon fas fa-users'></i>"
+  post = "<small class='dropdown-subtitle'>Longer lasting code</small>"
+  url = "products/product-codemodernizer/"
+  weight = 1
+
+  [[main]]
+  parent = "Products"
+  name = "Consulting"
+  #pre = "<i class='dropdown-icon fas fa-dice-d6'></i>"
+  post = "<small class='dropdown-subtitle'>Expert knowledge for evolving your codebase</small>"
+  url = "products/product-consulting/"
+  weight = 2
+
+  [[main]]
+  parent = "Products"
+  name = "e2immu"
+  #pre = "<i class='dropdown-icon fas fa-laptop-house'></i>"
+  post = "<small class='dropdown-subtitle'>Static Code Analyser for Java</small>"
+  url = "products/product-e2immu/"
+  weight = 3
+
+  [[main]]
+  parent = "Products"
+  name = "View All Products"
+  pre = "<i class='dropdown-icon text-primary fas fa-arrow-right'></i>"
+  url = "products/"
+  weight = 5
+
+[[main]]
+weight = 13
+name = "Download"
+url = "download/"
+
+[[main]]
+weight = 6
+name = "Pricing"
+hasChildren = true
+
+  [[main]]
+  parent = "Pricing"
+  name = "Plans"
+  url = "pricing/"
+  weight = 1
+
+  [[main]]
+  parent = "Pricing"
+  name = "Buy"
+  url = "get-demo/"
+  weight = 4
+
+
+
+[[main]]
+weight = 15
+name = "Resources"
+hasChildren = true
+
+  [[main]]
+  parent = "Resources"
+  name = "Blog"
+  url = "blog/"
+  weight = 1
+
+  [[main]]
+  parent = "Resources"
+  name = "FAQ"
+  url = "faq/"
+  weight = 2
+
+  [[main]]
+  parent = "Resources"
+  name = "Manual"
+  url = "manual/"
+  weight = 4
+
+  [[main]]
+  parent = "Resources"
+  name = "Roadmap/Timeline"
+  url = "roadmap-timeline/"
+  weight = 5
+
+  [[main]]
+  parent = "Resources"
+  name = "Installation & Tutorial"
+  url = "installation-tutorial/"
+  weight = 10
+
+  [[main]]
+  parent = "Resources"
+  name = "Technical Details"
+  url = "technical-details/"
+  weight = 16
+
+  [[main]]
+  parent = "Resources"
+  name = "Bug Reporting"
+  url = "bug-reporting/"
+  weight = 20
+
+  [[main]]
+  parent = "Resources"
+  name = "Feedback"
+  url = "feedback/"
+  weight = 24
+
+[[main]]
+name = "Values"
+url = "values/"
+weight = 30
+
+# footer menu left
+[[footer_left]]
+name = "Product"
+url = "/"
+weight = 1
+
+[[footer_left]]
+name = "Pricing"
+url = "/"
+weight = 2
+
+[[footer_left]]
+name = "Download"
+url = "download/"
+weight = 3
+
+[[footer_left]]
+name = "Buy"
+url = "career/"
+weight = 4
+
+
+# footer menu middle
+[[footer_middle]]
+name = "Blog"
+url = "products/product-1/"
+weight = 1
+
+[[footer_middle]]
+name = "Roadmap & Timeline"
+url = "products/product-2/"
+weight = 2
+
+[[footer_middle]]
+name = "Manual"
+url = "products/product-3/"
+weight = 3
+
+[[footer_middle]]
+name = "Installation & Tutorial"
+url = "products/product-4/"
+weight = 4
+
+[[footer_middle]]
+name = "Technical Details"
+url = "products/product-4/"
+weight = 5
+
+[[footer_middle]]
+name = "Bug Reporting"
+url = "products/product-4/"
+weight = 6
+
+[[footer_middle]]
+name = "FAQ"
+url = "products/product-4/"
+weight = 7
+
+
+# footer menu right
+[[footer_right]]
+name = "About Us"
+url = "about-us/"
+weight = 1
+
+[[footer_right]]
+name = "Values"
+url = "values/"
+weight = 2
+
+[[footer_right]]
+name = "Contact Us"
+url = "contact/"
+weight = 3
+
+[[footer_right]]
+name = "Legal"
+url = "legal/"
+weight = 4
